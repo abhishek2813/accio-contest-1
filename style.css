@@ -1,23 +1,9 @@
-body{
-    
-    background-color: #000000;
-    color: #ffffff;
-}
-.input{
+/*Adding CSS */
+html,body
+{
     width: 100%;
-    outline: 0; 
-    border-width: 0 0 2px;
-    border-color: white;
-    margin-bottom: 10px;
-    padding-bottom: 11px;
-    background-color: #000000;
-    color: white;
-}
-button{
-    padding: 7px 45px 7px 45px;
-    font-size: 20px;
-
-}
-::placeholder { 
-   color:   white;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
 }
